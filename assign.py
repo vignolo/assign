@@ -18,7 +18,7 @@ def process_args(options):
         options.remove('-p')
 
     if len(options) == 0:
-        print "something is grong. use -help"
+        print "something is wrong. use -help"
         sys.exit()
 
     return options
