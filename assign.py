@@ -6,7 +6,7 @@ import random
 items = [[10,'Carne'], 
         [10,'Bebida [Vino, Gaseosa (Aquarius Pomelo), Soda]'], 
         [7,'Carbon'], 
-        [5,'Verdura [Tomate, Pimiento, Limon]'], 
+        [5,'Verdura [Tomate, Pimiento, Limon, Huevo]'], 
         [3, 'Pan (Celeste)'], 
         [3,'Postre']]
 
